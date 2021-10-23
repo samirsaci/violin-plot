@@ -1,15 +1,3 @@
-# web: gunicorn --bind 0.0.0.0:$PORT app:app
-# .\venv\Scripts\activate
-# py -m pip install xlrd
-# gcloud app deploy --version dev
-# gcloud app versions stop dev
-# gcloud app versions start dev
-# py app.py
-# py -m pip list --format columns
-# git commit -m ""
-# git push -u ats_origin master
-# py -m venv \venv
-
 from flask import Flask, render_template, request, redirect
 from violin import *
 
