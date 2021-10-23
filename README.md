@@ -1,18 +1,18 @@
-## Pareto Analysis of Cosmetics Sales using Interactive Violin Plot with Flask and D3.js 💄
+## Pareto Analysis of Cosmetics Sales with Violin Plot using Flask + D3.js 💄
 *Build Interactive Violin chart to understand the distribution of your e-commerce sales*
 
 An Italian economist named Vilfredo Pareto developed 1906 a mathematical formula to describe the distribution of wealth in Italy. He discovered that 80% of the wealth belonged to 20% of the population.
 
-![This is an image](https://miro.medium.com/max/3000/1*cKcNGXPH4OABg-lzGQMamA.png)
+![Pareto](https://miro.medium.com/max/325/0*f_q2eTFSRsMvk-DZ.jpg)
 
 A few decades later this rule has been generalized to many other applications including Supply Chain and Logistics Management.
 This principle called the “Pareto Principle”, “the 80–20 rule” or “The Law of Trivial Many and Critical Few” can be translated for Logistics Practitioners
-80% of your company revenue is made from 20% of your reference
-80% of your volume is picked in 20% of your picking locations
-80% of your replenishment volume will be performed on 20% of your picking locations
+- 80% of your company revenue is made from 20% of your reference
+- 80% of your volume is picked in 20% of your picking locations
+- 80% of your replenishment volume will be performed on 20% of your picking locations
 
 ### Medium Article
-In this [Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93/), I try to give you a recipe to design fancy visualization using D3.js without prior knowledge of javascript (or very light).
+In this [Medium Article](https://towardsdatascience.com/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e3/), we will explore how to apply this Pareto Principle using a actual Logistic operational example.
 
 ![This is an image](https://miro.medium.com/max/3000/1*cKcNGXPH4OABg-lzGQMamA.png)
 
