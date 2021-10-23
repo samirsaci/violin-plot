@@ -14,12 +14,10 @@ This principle called the “Pareto Principle”, “the 80–20 rule” or “T
 ### Medium Article
 In this [Medium Article](https://towardsdatascience.com/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e3/), we will explore how to apply this Pareto Principle using a actual Logistic operational example.
 
-![This is an image](https://miro.medium.com/max/3000/1*cKcNGXPH4OABg-lzGQMamA.png)
+![This is an image](https://github.com/samirsaci/violin-plot/blob/master/static/img/screenshot.png)
 
-## Pre-requisite
-- Basic knowledge of HTML
-- Intermediate knowledge of Python including Flask framework
-- Find an example of visualization you want to design
+## Objective
+This repository code can be used to build a visualization tool to apply the principles presented in this article.
 
 ## Code
 This repository code should be used in the first step of analysis to duplicate the example found and render it using Python Flask.
@@ -34,7 +32,7 @@ py app.py
 ```
 
 ## Next Steps
-You can now replace miserables.json with your dataset or follow the article instructions to use a dataset of e-commerce sales of perfume and cosmetics products.
+Communicate these visuals to your operations and marketing team to understand what drives your sales.
 
 ## About me 🤓
 Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
